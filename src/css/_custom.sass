@@ -1,0 +1,88 @@
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 80%
+  &-2
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 10%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 71%
+    right: 40%
+
+
+@keyframes float1
+  0%
+    transform: translateY(20px)
+
+  100%
+    transform: translateY(0px)
+
+.banner-principal__row .banner-principal__img
+  width: 400px !important 
+.titulo-tres
+  display: inline-block
+  background-color: $color-acento-contenido
+  padding: .5rem
+  margin-bottom: 2rem
+  h3
+    margin: 0 2rem
+.tarjeta--azul
+  background-color: #CFE1FA
+.acordion__activo
+  background-color: #CFF8DE
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+.bg-slyder
+  background-image: url(../assets/curso/temas/bg-slyder.png)
+  background-position: 0 0
+  background-repeat: no-repeat
+  background-size: cover
+.mn
+  margin: 0 -3rem
+divformu
+  background-color: #fff
+  color: black !important
+  font-weight: bold
+  text-align: center
+  font-style: italic
+
+.fraction
+  display: inline-block
+  vertical-align: middle 
+  margin: 0 0.2em 0.4ex
+  text-align: center
+
+.fraction > span
+  display: block
+  padding-top: 0.15em
+
+.fraction span.fdn
+  border-top: thin solid #12263F
+
+.fraction span.bar
+  display: none
+
+//Radical
+.radical
+  position: relative
+  font-size: 1.6em
+  vertical-align: middle
+
+.n-root
+  position: absolute
+  top: -0.333em
+  left: 0.333em
+  font-size: 45%
+
+.radicand
+  padding: 0.25em 0.25em
+  border-top: thin #12263F solid
+
+figcaption 
+  word-break: break-all
