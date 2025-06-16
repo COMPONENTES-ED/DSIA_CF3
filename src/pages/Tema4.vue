@@ -13,12 +13,12 @@
           .row.justify-content-center.mb-5
             .col-lg-4.mb-lg-0.mb-3
               p.mb-0 Es importante tener presente que el propósito de la Interfaz de Usuario (UI) es optimizar y hacer más atractiva la interacción del usuario, enfocando el diseño en sus necesidades y experiencias. Por esta razón, disciplinas como el Diseño Gráfico y el Diseño Industrial aplican sus principios para facilitar que los usuarios comprendan y aprendan rápidamente el uso de las aplicaciones y sistemas. Las herramientas fundamentales empleadas incluyen elementos gráficos, pictogramas, estereotipos y simbología, asegurando que la estética no comprometa la eficiencia técnica ni el rendimiento operativo del sistema.
-            .col-lg-8.col-7
+            .col-lg-8.col-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 2.
                 span  Interfaz de usuario
               img(src='@/assets/curso/temas/49.png', alt='La Figura 2 se denomina «Interfaz de usuario» y muestra elementos que se pueden incluir en ella, tales como gráficos, pictogramas, estereotipos y simbología.')
-              figcaption Fuente: https://www.efectodigital.online/single-post/2018/04/18/dise%C3%B1o-de-interfaz-de-usuario-ui
+              figcaption.text-wrap Fuente: https://www.efectodigital.online/single-post/2018/04/18/dise%C3%B1o-de-interfaz-de-usuario-ui
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 4.1	Conceptos de usabilidad y experiencia de usuario (UX)

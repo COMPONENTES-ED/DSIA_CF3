@@ -1,4 +1,4 @@
-const titulo = 'Desarrollo de algoritmos y prototipado de interfaces'
+const titulo = 'Validación de requerimientos y modelado de bases de datos'
 
 module.exports = {
   publicPath: '',

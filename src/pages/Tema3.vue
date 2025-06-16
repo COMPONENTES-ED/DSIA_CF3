@@ -17,7 +17,7 @@
       h2 3.1	Análisis y diseño de algoritmos
     p.mb-4 El diseño de un algoritmo es uno de los pasos más cruciales en la resolución de problemas. Un buen diseño debe ser eficiente, claro y capaz de manejar diferentes casos, incluyendo entradas inesperadas o excepciones.
     .row.justify-content-center.mb-5
-      .col-lg-3.mb-lg-0.mb-3: img(src='@/assets/curso/temas/35.svg', alt='')
+      .col-lg-3.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/35.svg', alt='')
       .col-lg-7
         .rounded-3.p-4(style="background-color: #cff8de ")
           h5 Análisis
@@ -60,7 +60,7 @@
               i.fas.fa-check-circle(style="color: #1169E3")
               p.mb-0 Repetir el proceso hasta encontrar el número o hasta que no queden más elementos por buscar.
             
-      .col-lg-3.mb-lg-0.mb-3: img(src='@/assets/curso/temas/36.svg', alt='')
+      .col-lg-3.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/36.svg', alt='')
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.2	Estructuras secuenciales, condicionales y cíclicas

@@ -16,14 +16,14 @@
       .col-lg-5.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/s3.png', alt='')
       .col-lg-7
         .tarjeta.color-primario--borde.p-3.border-2.bg-white
-          p.mb-0 El área de análisis y diseño de algoritmos abarca la descomposición de problemas y la definición de estructuras, destacando cómo se conceptualizan las soluciones. La formulación y representación de algoritmos se centra en el uso de pseudocódigo y diagramas de flujo para visualizar la lógica. Las estructuras de control incluyen las secuencias y decisiones condicionales, fundamentales para la ejecución de tareas complejas. Por su parte, la validación y pruebas de algoritmos abordan métodos como las pruebas de escritorio y la optimización de procesos, asegurando que las soluciones sean precisas y eficientes. Finalmente, el prototipado de interfaces se enfoca en el desarrollo de wireframes y mockups, así como en la realización de pruebas de usabilidad para perfeccionar la experiencia del usuario.
+          p.mb-0 El área de análisis y diseño de algoritmos abarca la descomposición de problemas y la definición de estructuras, destacando cómo se conceptualizan las soluciones. La formulación y representación de algoritmos se centra en el uso de pseudocódigo y diagramas de flujo para visualizar la lógica. Las estructuras de control incluyen las secuencias y decisiones condicionales, fundamentales para la ejecución de tareas complejas. Por su parte, la validación y pruebas de algoritmos abordan métodos como las pruebas de escritorio y la optimización de procesos, asegurando que las soluciones sean precisas y eficientes. Finalmente, el prototipado de interfaces se enfoca en el desarrollo de #[em wireframes] y #[em mockups], así como en la realización de pruebas de usabilidad para perfeccionar la experiencia del usuario.
     .row.justify-content-center.mb-5
       .col-lg-9.mb-lg-0.mb-3
         .tarjeta.p-4(style="background-color: #E6FBEE")
           .row.justify-content-center.align-items-center
             .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/s4.svg', alt='')
             .col-lg-10
-              p.mb-0 EEste diagrama se constituye en una herramienta visual para navegar por los conceptos presentados en el componente, ayudando al lector a entender rápidamente la secuencia y la conexión de los procesos descritos. Se invita a los aprendices a explorar el diagrama como un complemento visual al contenido detallado, sirviendo tanto como referencia rápida como un recordatorio estructurado de los elementos en el desarrollo de algoritmos y diseño de interfaces.
+              p.mb-0 Este diagrama se constituye en una herramienta visual para navegar por los conceptos presentados en el componente, ayudando al lector a entender rápidamente la secuencia y la conexión de los procesos descritos. Se invita a los aprendices a explorar el diagrama como un complemento visual al contenido detallado, sirviendo tanto como referencia rápida como un recordatorio estructurado de los elementos en el desarrollo de algoritmos y diseño de interfaces.
       .col-lg-3.col-5: img(src='@/assets/curso/temas/s5.svg', alt='')
     .row.justify-content-center.mb-5
       .col-lg-8: img(src='@/assets/curso/temas/sintesis.svg', alt='')

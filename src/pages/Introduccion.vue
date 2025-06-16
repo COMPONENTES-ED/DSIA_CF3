@@ -31,7 +31,7 @@
             .col-lg-10
               p.mb-0 Finalmente, el componente aborda el prototipado de interfaces de usuario, un área que combina diseño gráfico, experiencia de usuario (UX) y pruebas de usabilidad. Aquí, se detallan los principios y herramientas necesarias para crear prototipos interactivos que respondan a las necesidades de los usuarios, priorizando la accesibilidad y la estética sin comprometer el rendimiento técnico. La integración de estos elementos permite que las aplicaciones sean tanto funcionales como atractivas, ofreciendo una experiencia satisfactoria y fluida.
       .col-lg-2.col-5: img(src='@/assets/curso/temas/5.svg', alt='')
-    p.mb-5(data-aos='fade-right') ¡Bienvenido a este recorrido por el mundo de los algoritmos y el diseño de interfaces, donde aprenderás a crear experiencias intuitivas y optimizadas para el usuario!
+    p.mb-5(data-aos='fade-right') ¡Bienvenido a este recorrido por el mundo de los algoritmos y el diseño de interfaces, donde aprenderá a crear experiencias intuitivas y optimizadas para el usuario!
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/os2D4s1vbj0?si=ydmTgX3cvKYjc0CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

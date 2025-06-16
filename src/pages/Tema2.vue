@@ -13,7 +13,7 @@
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.1	Concepto y tipos de algoritmos
-    .titulo-tres: h3.mb-0 Tipos de algoritmos
+    .titulo-tres: h3.mb-0 Concepto de algoritmo
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
         p.mb-4 Es útil escribir una declaración del problema que explique claramente lo que se debe lograr. Esto ayuda a estructurar la solución.
@@ -34,7 +34,7 @@
     .row.justify-content-center.mb-5
       .col-lg-3.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/19.svg', alt='')
       .col-lg-9
-        .titulo-tres: h3.mb-0 Concepto de algoritmo
+        .titulo-tres: h3.mb-0 Tipos de algoritmo
         AccordionRED.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Algoritmos secuenciales")
             p.mb-0 Se ejecutan de manera lineal, donde cada paso ocurre uno tras otro sin desviaciones. Son los más simples de entender.
@@ -139,7 +139,7 @@
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 1.
           span Ejemplo de pseudocódigo y diagrama de flujo
-        img(src='@/assets/curso/temas/23.svg', alt='La Figura 1 se denomina «Ejemplo de pseudocódigo y diagrama de flujo» y presenta instrucciones para resolver un problema y un esquema asociado que recibe tres valores y determina cuál de ellos es el mayor y el menor utilizando decisiones condicionales para comparar los valores y muestra el resultado correspondiente en función de las comparaciones realizadas').mb-2
+        img(src='@/assets/curso/temas/23.svg', alt='La Figura 1 se denomina «Ejemplo de pseudocódigo y diagrama de flujo» y presenta instrucciones para resolver un problema y un esquema asociado que recibe tres valores y determina cuál de ellos es el mayor y el menor utilizando decisiones condicionales para comparar los valores y muestra el resultado correspondiente en función de las comparaciones realizadas.').mb-2
         figcaption Fuente: OIT, 2024.
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
