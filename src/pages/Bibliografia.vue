@@ -28,9 +28,8 @@ export default {
       },
       {
         referencia:
-          'Gálvez, J. A. S. (s. f.). Solución de Problemas y Algoritmos. Unidades de Apoyo Para el Aprendizaje - CUAIEED - UNAM. ',
-        link:
-          'https://uapa.cuaed.unam.mx/sites/default/files/minisite/static/3fa4df86-0459-4c54-a569-87d7c387f449/UAPA-solucion-problemas-algoritmos/index.html',
+          'Gálvez, J. A. S. (s. f.). Solución de Problemas y Algoritmos. Unidades de Apoyo Para el Aprendizaje - CUAIEED - UNAM.',
+        link: 'https://uapa.cuaed.unam.mx/node/1088',
       },
       {
         referencia:
